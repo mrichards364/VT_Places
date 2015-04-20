@@ -172,6 +172,57 @@
           44.37331837172586
         ]
       }
+    },
+             {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#8000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Name": "Rutland Bowlerama",
+        "Description": "This bowling alley is a great place to spend a few hours knocking down pins for only $3 per game and $1 for shoes (student rates in 2015). A wonderful activity for icky weather."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.96902418136597,
+          43.59758018217704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#8000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Name": "Cacklin' Hens",
+        "Description": "This is a knitting shop that has a wide selection of yarns and friendly, knowledgeable staff. A great place to explore your craftiness on a wintry day."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.17021131515503,
+          44.02338005282147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#8000ff",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "Name": "Middlebury Marquis",
+        "Description": "This small two-theater cinema house plays 2 or 3 movies at a time is walking distance from campus. A perfect date night location - but the food from the adjoined Mexican restaurant is not recommended.... Occasionaly the theater also hosts concerts."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.16905796527863,
+          44.012773407024774
+        ]
+      }
     }
 ]
 }
