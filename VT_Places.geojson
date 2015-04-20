@@ -60,7 +60,7 @@
       "properties": {
         "marker-color": "#8000ff",
         "marker-size": "medium",
-        "marker-symbol": "zoo"
+        "marker-symbol": "zoo",
         "Name": "ECHO Lake Aquarium and Science Center",
         "Description": "Hands-on learning about Lake Champlain"
       },
