@@ -55,5 +55,22 @@
         ]
       }
     }
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#8000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Name": "Cacklin' Hens",
+        "Description": "This is a knitting shop that has a wide selection of yarns and friendly, knowledgeable staff. A great place to explore your craftiness on a wintry day."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.17021131515503,
+          44.02338005282147
+        ]
+      }
+    }
 ]
 }
