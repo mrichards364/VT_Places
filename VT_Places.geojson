@@ -38,19 +38,21 @@
         ]
       }
     }
-        {
+         {
       "type": "Feature",
       "properties": {
         "marker-color": "#8000ff",
         "marker-size": "medium",
-        "marker-symbol": "circle"
-        "name": "Rutland Bowlerama"
+        "marker-symbol": "circle",
+        "description": "This bowling alley is a great place to spend a few hours knocking down pins for only $3 per game and $1 for shoes (student rates in 2015). A wonderful activity for icky weather."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          43.598363, -72.969852
+          -72.96902418136597,
+          43.59758018217704
         ]
       }
+    }
 ]
 }
