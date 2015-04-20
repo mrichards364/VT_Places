@@ -45,7 +45,7 @@
         "marker-size": "medium",
         "marker-symbol": "ice-cream",
         "Name": "Ben & Jerry's",
-        "Description": "iconic, creative ice cream parlor chain"
+        "Description": "Iconic, creative ice cream parlor chain"
       },
       "geometry": {
         "type": "Point",
@@ -69,6 +69,23 @@
         "coordinates": [
           -73.2211250066757,
           44.47653574254873
+        ]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#8000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Name": "Lake Champlain Maritime Museum",
+        "Description": "Exhibits on local nautical history"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.35653901100159,
+          44.19723599806458
         ]
       }
     }
