@@ -241,6 +241,176 @@
 43.95345196430687
 ]
 }
-}
+},
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400080",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Name": "Whirlie's World",
+        "Description": "Great place to play laser tag with a few friends. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1692886352539,
+          44.02019382214874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400080",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Name": "Community Supper at the Congregational Church",
+        "Description": "A wonderful place to volunteer and eat dinner on Friday afternoons.  If you want to actually organize a dinner yourself (for 200-300 people!), you can get money from your Commons, the Service Cluster Board, and many other organizations on campus. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1692886352539,
+          44.02019382214874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "FF8000",
+        "marker-size": "medium",
+        "marker-symbol": "grocery",
+        "Name": "Trader Joe's",
+        "Description": "Right near the airport, with a great wine selection, plenty of healthy frozen food options, and fantastic fresh produce. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.180810,
+          44.464113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400080",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Name": "Champlain Lanes",
+        "Description": "A fun bowling alley in South Burlington."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.214304,
+          44.417166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400080",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Name": "Waterfront Divi",
+        "Description": "A fun bowling alley in South Burlington."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.214304,
+          44.417166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400080",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
+        "Name": "Flynn Theater",
+        "Description": "Some great concerts come through this awesome old theater every year--definitely worth checking it out!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.213193,
+          44.47587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400080",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
+        "Name": "Waterfront Diving Center",
+        "Description": "You can get your SCUBA certification here or go on dives on Lake Champlain."
+        },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.218278,
+          44.473496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400080",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
+        "Name": "Merrill's Roxy Cinema",
+        "Description": "A great movie theater on Church Street that shows all the alternative films that don't make it to Middlebury."
+        },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.210832,
+          44.477431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400080",
+        "marker-size": "medium",
+        "marker-symbol": "music",
+        "Name": "Higher Ground",
+        "Description": "Wonderful atmosphere and fairly inexpensive music in Burlington."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.175570, 
+          44.469069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "FF8000",
+        "marker-size": "medium",
+        "marker-symbol": "grocery",
+        "Name": "Shelburne Market",
+        "Description": "Wonderful local supermarket in Shelburne.  You can get a huge variety of yogurt, sliced deli meats, excellent baking chocolate, among other fresh food items."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.224072, 
+          44.378623
+        ]
+      }
+    }
 ]
 }
