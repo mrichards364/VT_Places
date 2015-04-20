@@ -37,6 +37,40 @@
           44.1272782929023
         ]
       }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#8000ff",
+        "marker-size": "medium",
+        "marker-symbol": "ice cream",
+        "Name": "Ben & Jerry's",
+        "Description": "iconic, creative ice cream parlor chain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.74017810821533,
+          44.35293074154955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#8000ff",
+        "marker-size": "medium",
+        "marker-symbol": "zoo"
+        "Name": "ECHO Lake Aquarium and Science Center",
+        "Description": "Hands-on learning about Lake Champlain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2211250066757,
+          44.47653574254873
+        ]
+      }
     }
 ]
 }
