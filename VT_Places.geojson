@@ -44,7 +44,8 @@
         "marker-color": "#8000ff",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "description": "This bowling alley is a great place to spend a few hours knocking down pins for only $3 per game and $1 for shoes (student rates in 2015). A wonderful activity for icky weather."
+        "Name": "Rutland Bowlerama",
+        "Description": "This bowling alley is a great place to spend a few hours knocking down pins for only $3 per game and $1 for shoes (student rates in 2015). A wonderful activity for icky weather."
       },
       "geometry": {
         "type": "Point",
