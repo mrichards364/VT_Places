@@ -37,7 +37,7 @@
           44.1272782929023
         ]
       }
-    }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -52,6 +52,22 @@
         "coordinates": [
           -73.1692886352539,
           44.02019382214874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400080",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "Name": "Merrill's Roxy Cinema",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.477431,-73.210832
         ]
       }
     }
